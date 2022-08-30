@@ -1,11 +1,9 @@
-
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=700&color=1D27F7&width=435&lines=I'm+Inari+%F0%9F%91%8B;Be+awesome;Invictus+maneo)](https://git.io/typing-svg)
 
 <a href="#">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=InariInDream&count_private=true&show_icons=true&bg_color=15,f2f7fd,E0EAFC" />
 </a>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=700&color=1D27F7&width=435&lines=I'm+Inari+%F0%9F%91%8B;Be+awesome;Invictus+maneo)](https://git.io/typing-svg)
 
 - 🌱 I’m currently learning ![](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=fff)
 ![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=fff)
