@@ -12,6 +12,27 @@
 ![](https://img.shields.io/badge/-Java-8279A1?style=flat-square&logo=Java&logoColor=fff)
 ![](https://img.shields.io/badge/-Go-12B9A1?style=flat-square&logo=Go&logoColor=fff)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!--
 **InariInDream/InariInDream** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
