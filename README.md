@@ -16,7 +16,7 @@
 <a href="https://codeforces.com/profile/InariInDream"><img src="https://img.shields.io/badge/Codeforces-个人资料-c32136"></a>&emsp;
 <a href="https://steamcommunity.com/profiles/76561198813007792/"><img src="https://img.shields.io/badge/Steam-个人资料-003472"></a>&emsp;
 
----
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-8%20mins-blue)
 
