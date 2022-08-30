@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=700&color=1D27F7&width=435&lines=I'm+Inari+%F0%9F%91%8B;Be+awesome;Invictus+maneo)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=700&color=1D27F7&width=435&lines=I'm+InariInDream+%F0%9F%91%8B;Invictus+maneo;Be+awesome)](https://git.io/typing-svg)
 
 <a href="#">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=InariInDream&count_private=true&show_icons=true&bg_color=15,f2f7fd,E0EAFC" />
@@ -68,11 +68,12 @@ Windows                  8 mins              ███████████�
 
 ---
 
+<div align="center">
+
+![Metrics](https://metrics.lecoq.io/InariInDream?template=classic&isocalendar=1&languages=1&fortune=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&isocalendar=false&isocalendar.duration=full-year&languages=false&languages.skipped=inariindream.github.io&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&fortune=false&config.timezone=Asia%2FHong_Kong)
 
 
-![Metrics](https://metrics.lecoq.io/InariInDream?template=classic&isocalendar=1&languages=1&fortune=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&isocalendar=false&isocalendar.duration=full-year&languages=false&languages.ignored=html%2Ccss&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&fortune=true&config.timezone=Asia%2FHong_Kong)
-
-
+</div>
 
 
 
