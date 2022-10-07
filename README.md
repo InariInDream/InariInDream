@@ -3,7 +3,7 @@
 <a href="#">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=InariInDream&count_private=true&show_icons=true&bg_color=15,f2f7fd,E0EAFC" />
 </a>
-
+<a href="https://codeforces.com/profile/InariInDream"><img src="https://cfrating.baoshuo.dev/rating?username=InariInDream"></a>&emsp;
 
 - 🌱 I’m currently learning ![](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=fff)
 ![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=fff)
@@ -13,7 +13,6 @@
 
 - 📫 How to reach me: <a href="https://inariindream.github.io/"><img src="https://img.shields.io/badge/MyBlog-博客-blue"></a>&emsp;
 <a href="https://twitter.com/inariindream/"><img src="https://img.shields.io/badge/twitter-%E6%8E%A8%E7%89%B9-blue"></a>&emsp;
-<a href="https://codeforces.com/profile/InariInDream"><img src="https://img.shields.io/badge/Codeforces-个人资料-c32136"></a>&emsp;
 <a href="https://steamcommunity.com/profiles/76561198813007792/"><img src="https://img.shields.io/badge/Steam-个人资料-003472"></a>&emsp;
 
 
