@@ -4,7 +4,7 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=InariInDream&count_private=true&show_icons=true&bg_color=15,f2f7fd,E0EAFC" />
 </a>
 <a href="https://codeforces.com/profile/InariInDream"><img src="https://cfrating.baoshuo.dev/rating?username=InariInDream"></a>&emsp;
-<a href="https://codeforces.com/profile/InariInDream"><img src="https://cfrating.baoshuo.dev/rating?username=Aphrodite_wanna"></a>&emsp;
+<a href="https://codeforces.com/profile/Aphrodite_wanna"><img src="https://cfrating.baoshuo.dev/rating?username=Aphrodite_wanna"></a>&emsp;
 
 - 🌱 I’m currently learning ![](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=fff)
 ![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=fff)
