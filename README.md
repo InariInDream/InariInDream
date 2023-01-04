@@ -18,7 +18,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-200%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-203%20hrs%2012%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -67,7 +67,7 @@ Windows                  8 hrs 35 mins       ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛�
 ```
 
 
- Last Updated on 03/01/2023 01:07:19 UTC
+ Last Updated on 04/01/2023 01:09:27 UTC
 <!--END_SECTION:waka-->
 
 
