@@ -18,7 +18,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-419%20hrs%2010%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-419%20hrs%2056%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -60,7 +60,7 @@ Windows                  1 hr 3 mins         ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛�
 ```
 
 
- Last Updated on 18/05/2023 01:05:21 UTC
+ Last Updated on 19/05/2023 01:06:43 UTC
 <!--END_SECTION:waka-->
 
 
