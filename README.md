@@ -12,9 +12,9 @@
 ![](https://img.shields.io/badge/-Java-8279A1?style=flat-square&logo=Java&logoColor=fff)
 ![](https://img.shields.io/badge/-Go-12B9A1?style=flat-square&logo=Go&logoColor=fff)
 
-- 📫 How to reach me: <a href="https://inariindream.github.io/"><img src="https://img.shields.io/badge/MyBlog-博客-blue"></a>&emsp;
-<a href="https://twitter.com/inariindream/"><img src="https://img.shields.io/badge/twitter-%E6%8E%A8%E7%89%B9-blue"></a>&emsp;
-<a href="https://steamcommunity.com/profiles/76561198813007792/"><img src="https://img.shields.io/badge/Steam-个人资料-003472"></a>&emsp;
+- 📫 How to reach me: <a href="https://inariindream.github.io/"><img src="https://img.shields.io/badge/MyBlog-blog-blue"></a>&emsp;
+<a href="https://twitter.com/inariindream/"><img src="https://img.shields.io/badge/twitter-X-blue"></a>&emsp;
+<a href="https://steamcommunity.com/profiles/76561198813007792/"><img src="https://img.shields.io/badge/Steam-profile-003472"></a>&emsp;
 
 
 <!--START_SECTION:waka-->
