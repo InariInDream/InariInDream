@@ -6,15 +6,14 @@
 <a href="https://codeforces.com/profile/InariInDream"><img src="https://cfrating.baoshuo.dev/rating?username=InariInDream"></a>&emsp;
 <a href="https://codeforces.com/profile/Aphrodite_wanna"><img src="https://cfrating.baoshuo.dev/rating?username=Aphrodite_wanna"></a>&emsp;
 
-- 🌱 I’m currently learning ![](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=fff)
+- 🌱 I’m currently learning 
 ![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=fff)
 ![](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=Linux&logoColor=fff)
-![](https://img.shields.io/badge/-Java-8279A1?style=flat-square&logo=Java&logoColor=fff)
 ![](https://img.shields.io/badge/-Go-12B9A1?style=flat-square&logo=Go&logoColor=fff)
 
-- 📫 How to reach me: <a href="https://inariindream.github.io/"><img src="https://img.shields.io/badge/MyBlog-blog-blue"></a>&emsp;
-<a href="https://twitter.com/inariindream/"><img src="https://img.shields.io/badge/twitter-X-blue"></a>&emsp;
-<a href="https://steamcommunity.com/profiles/76561198813007792/"><img src="https://img.shields.io/badge/Steam-profile-003472"></a>&emsp;
+- 📫 How to reach me: <a href="https://discord.com/users/869406911789957120"><img src="https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=fff"></a>&emsp;
+<a href="https://twitter.com/inariindream/"><img src="https://img.shields.io/badge/-X-1239A1?style=flat-square&logo=Twitter&logoColor=fff"></a>&emsp;
+<a href="https://steamcommunity.com/profiles/76561198813007792/"><img src="https://img.shields.io/badge/-Steam-003472?style=flat-square&logo=steam&logoColor=fff"></a>&emsp;
 
 
 <!--START_SECTION:waka-->
