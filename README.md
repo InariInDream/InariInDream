@@ -11,7 +11,7 @@
 ![](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=Linux&logoColor=fff)
 ![](https://img.shields.io/badge/-Go-12B9A1?style=flat-square&logo=Go&logoColor=fff)
 
-- 📫 How to reach me: <a href="https://discord.com/users/869406911789957120"><img src="https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=fff"></a>&emsp;
+- 📫 How to reach me: <a href="https://discord.com/users/869406911789957120"><img src="https://img.shields.io/badge/-InariInDream-5865F2?style=flat-square&logo=discord&logoColor=fff"></a>&emsp;
 <a href="https://twitter.com/inariindream/"><img src="https://img.shields.io/badge/-X-1239A1?style=flat-square&logo=Twitter&logoColor=fff"></a>&emsp;
 <a href="https://steamcommunity.com/profiles/76561198813007792/"><img src="https://img.shields.io/badge/-Steam-003472?style=flat-square&logo=steam&logoColor=fff"></a>&emsp;
 
