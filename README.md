@@ -17,7 +17,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-841%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-841%20hrs%2051%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -56,7 +56,7 @@ Windows                  34 mins             ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛�
 ```
 
 
- Last Updated on 12/12/2024 00:48:52 UTC
+ Last Updated on 13/12/2024 00:49:50 UTC
 <!--END_SECTION:waka-->
 
 
