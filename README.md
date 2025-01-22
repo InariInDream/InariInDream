@@ -17,7 +17,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-851%20hrs%2025%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-851%20hrs%2054%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -57,7 +57,7 @@ WSL                      38 mins             ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛�
 ```
 
 
- Last Updated on 21/01/2025 00:43:35 UTC
+ Last Updated on 22/01/2025 00:44:54 UTC
 <!--END_SECTION:waka-->
 
 
