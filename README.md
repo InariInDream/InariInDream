@@ -17,8 +17,6 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C063%20hrs%2034%20mins-blue)
-
 **I'm an Early 🐤** 
 
 ```text
@@ -60,7 +58,7 @@ Linux                    16 hrs 50 mins      ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛�
 ```
 
 
- Last Updated on 01/11/2025 00:53:56 UTC
+ Last Updated on 02/11/2025 00:54:33 UTC
 <!--END_SECTION:waka-->
 
 
