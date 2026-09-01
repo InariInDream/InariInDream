@@ -48,13 +48,17 @@ Sunday                   41 commits          ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C++                      40 mins             ⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   33.23 % 
+Objective-C              38 mins             ⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   31.52 % 
+Go                       27 mins             ⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   22.07 % 
+Protocol Buffer          11 mins             ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   09.54 % 
+Markdown                 2 mins              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   02.21 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Trae                     2 hrs 3 mins        ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    2 hrs 3 mins        ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -64,7 +68,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 31/08/2026 02:09:37 UTC
+ Last Updated on 01/09/2026 02:29:24 UTC
 <!--END_SECTION:waka-->
 
 
