@@ -17,6 +17,10 @@
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C585%20hrs%2032%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-94%20hrs%205%20mins-blue?style=flat)
+
 **I'm an Early 🐤** 
 
 ```text
@@ -60,7 +64,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 13/11/2026 03:58:19 UTC
+ Last Updated on 14/11/2026 03:56:40 UTC
 <!--END_SECTION:waka-->
 
 
